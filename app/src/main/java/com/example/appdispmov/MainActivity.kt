@@ -1,5 +1,7 @@
 package com.example.appdispmov
 
+//Hola
+
 import android.graphics.Color.parseColor
 import android.os.Bundle
 import android.util.Patterns
